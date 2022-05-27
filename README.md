@@ -10,5 +10,4 @@ Among the open data, there was a JSON file listing the current works in the city
 Knowing streamlit but never used it, I thought there was something to do ant that's why I propose you the link of this web app showing the current street works in Nancy.
 Thanks 😊
 
-[link]
- 
+https://share.streamlit.io/mhaurel/nancy_smart_city/main/street_works/app.py 
