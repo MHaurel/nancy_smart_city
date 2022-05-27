@@ -1,0 +1,479 @@
+{
+    "incidents": [
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée *** Délestage-Déviat°: Déviation",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-30T00:00:00",
+            "endtime": "2022-06-14T00:00:00",
+            "location": {
+                "street": "Rue de la Visitation",
+                "polyline": "48.691750101324644 6.179419395610053",
+                "location_description": "RUE DE LA VISITATION, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-10T15:01:01.604087",
+            "creationtime": "2022-05-10T15:01:01.604065",
+            "id": "FrMdGN54148195"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Travaux coordonnés - Voirie: Rue barrée *** Délestage-Déviat°: Déviation",
+            "short_description": "Travaux coordonnés - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-06-14T00:00:00",
+            "location": {
+                "street": "Rue Henri Poincaré",
+                "polyline": "48.69144202363623 6.178126570551573",
+                "location_description": "RUE HENRI POINCARÉ, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:01.987859",
+            "creationtime": "2022-05-10T15:01:01.680725",
+            "id": "FrMdGN54148194"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Travaux coordonnés - Voirie: Rue barrée *** Délestage-Déviat°: Déviation",
+            "short_description": "Travaux coordonnés - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-06-14T00:00:00",
+            "location": {
+                "street": "Place Dombasle",
+                "polyline": "48.691693443073675 6.178003189109225",
+                "location_description": "PLACE DOMBASLE, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.060936",
+            "creationtime": "2022-05-10T15:01:01.884349",
+            "id": "FrMdGN54148196"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Gêne à la circulation, Réduction à une file de circulation *** Délestage-Déviat°: voir flyer joint",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-04-04T00:00:00",
+            "endtime": "2022-08-30T00:00:00",
+            "location": {
+                "street": "> Houdemont",
+                "polyline": "48.66474070769236 6.189234869892827",
+                "location_description": "ROUTE DE MIRECOURT, VANDOEUVRE"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-10T16:01:02.395348",
+            "creationtime": "2022-05-10T16:01:02.395322",
+            "id": "FrMdGN54148508"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Suppression d'un sens de circulation (Rue en sens unique) *** Délestage-Déviat°: Déviation par la Rue Saint Dizier dans le sens Charles III vers Hache",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-06-07T00:00:00",
+            "endtime": "2022-06-14T00:00:00",
+            "location": {
+                "street": "Rue des Quatre Églises",
+                "polyline": "48.687581923307036 6.1834227123778565",
+                "location_description": "RUE DES QUATRE EGLISES, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.268207",
+            "creationtime": "2022-05-20T11:01:02.268175",
+            "id": "FrMdGN54149782"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-05-27T00:00:00",
+            "location": {
+                "street": "Rue de Guise",
+                "polyline": "48.69711777235143 6.176847640540628",
+                "location_description": "RUE DE GUISE, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.370606",
+            "creationtime": "2022-05-18T11:01:02.466235",
+            "id": "FrMdGN54149143"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-05-27T00:00:00",
+            "location": {
+                "street": "Rue du Petit Bourgeois",
+                "polyline": "48.69731428280087 6.176552597153908",
+                "location_description": "RUE DU PETIT BOURGEOIS, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.449563",
+            "creationtime": "2022-05-18T11:01:02.546977",
+            "id": "FrMdGN54149142"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-06-10T00:00:00",
+            "location": {
+                "street": "Rue Gambetta",
+                "polyline": "48.692457958950044 6.1812571918500785",
+                "location_description": "RUE GAMBETTA, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.529593",
+            "creationtime": "2022-05-18T11:01:02.651111",
+            "id": "FrMdGN54149144"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-06-13T00:00:00",
+            "endtime": "2022-06-24T00:00:00",
+            "location": {
+                "street": "Rue Pierre Fourier",
+                "polyline": "48.692698750402464 6.1840332779200295",
+                "location_description": "RUE PIERRE FOURIER, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.607264",
+            "creationtime": "2022-05-18T11:01:02.735425",
+            "id": "FrMdGN54149145"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-30T00:00:00",
+            "endtime": "2022-06-07T00:00:00",
+            "location": {
+                "street": "Rue Monseigneur Trouillet",
+                "polyline": "48.69649371571494 6.178467024353357",
+                "location_description": "RUE TROUILLET, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.694032",
+            "creationtime": "2022-05-18T11:01:02.818263",
+            "id": "FrMdGN54149146"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-30T00:00:00",
+            "endtime": "2022-06-07T00:00:00",
+            "location": {
+                "street": "Rue Saint-Michel",
+                "polyline": "48.69649105937946 6.178481775803226",
+                "location_description": "RUE ST MICHEL, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-20T11:01:02.777453",
+            "creationtime": "2022-05-18T11:01:02.903885",
+            "id": "FrMdGN54149147"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-06-01T00:00:00",
+            "endtime": "2022-06-02T00:00:00",
+            "location": {
+                "street": "Rue Georges Clemenceau",
+                "polyline": "48.70198040949231 6.205796951448013",
+                "location_description": "RUE GEORGES CLÉMENCEAU, SAINT-MAX"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-19T17:01:03.029563",
+            "creationtime": "2022-05-19T17:01:03.029514",
+            "id": "FrMdGN54149462"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Réduction à une file de circulation, Rétrécissement des voies, Réduction de circulation et itinéraire de déviation *** Délestage-Déviat°: Itinéraire conseillé fléché",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-03-28T00:00:00",
+            "endtime": "2022-08-31T00:00:00",
+            "location": {
+                "street": "Rue Jeanne d'Arc",
+                "polyline": "48.67527920403701 6.179925772893083",
+                "location_description": "RUE JEANNE D'ARC DE G. MOUILLERON À G. LECLERC, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-03-24T17:01:02.451048",
+            "creationtime": "2022-03-24T17:01:02.451030",
+            "id": "FrMdGN54146587"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Suppression d'un sens de circulation (Rue en sens unique), Stationnement interdit *** Délestage-Déviat°: Sens de circulation J. d'Arc vers Blandan maintenu",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-05-16T00:00:00",
+            "endtime": "2022-07-22T00:00:00",
+            "location": {
+                "street": "Avenue du Maréchal Juin",
+                "polyline": "48.6790623486439 6.172978241097655",
+                "location_description": "AVENUE DU MARÉCHAL JUIN, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-04-21T10:01:02.530588",
+            "creationtime": "2022-04-21T10:01:02.530570",
+            "id": "FrMdGN54147865"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Travaux coordonnés - Voirie: Circulation et stationnement interdit, sauf riverains, Stationnement interdit, Gêne à la circulation *** Délestage-Déviat°: voir flyers",
+            "short_description": "Travaux coordonnés - Voirie",
+            "starttime": "2022-05-16T02:00:00",
+            "endtime": "2022-06-14T02:00:00",
+            "location": {
+                "street": "Rue Henri Poincaré",
+                "polyline": "48.69124449766725 6.177507872821074",
+                "location_description": "RUE HENRI POINCARÉ, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-11T10:01:02.962068",
+            "creationtime": "2022-05-11T09:01:02.364604",
+            "id": "FrMdGN54148823"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Assainissement - Voirie: Déviation pour les piétons (pas de passage interdit)",
+            "short_description": "Assainissement - Voirie",
+            "starttime": "2022-05-12T00:00:00",
+            "endtime": "2022-07-08T00:00:00",
+            "location": {
+                "street": "Rue Belin",
+                "polyline": "48.65013027688839 6.19279200913677",
+                "location_description": "RUISSEAU DU FONTENO, HEILLECOURT"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-04-28T11:01:02.529400",
+            "creationtime": "2022-04-28T11:01:02.529384",
+            "id": "FrMdGN54147554"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Assainissement - Voirie: Déviation pour les piétons (pas de passage interdit) *** Délestage-Déviat°: Passerelle barrée : déviation mise en place pour piétons et cyclistes",
+            "short_description": "Assainissement - Voirie",
+            "starttime": "2022-06-13T00:00:00",
+            "endtime": "2022-06-17T00:00:00",
+            "location": {
+                "street": "passerelle barrage sur la Meurthe",
+                "polyline": "48.700392337559215 6.197976143618565",
+                "location_description": "PASSERELLE BARRAGE SUR LA MEURTHE, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-05T11:01:02.798061",
+            "creationtime": "2022-05-05T11:01:02.798047",
+            "id": "FrMdGN54147871"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Suppression d'un sens de circulation (Rue en sens unique), Stationnement interdit *** Délestage-Déviat°: sens rue de Norvège vers rue des Malines maintenu",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-06-20T00:00:00",
+            "endtime": "2022-08-19T00:00:00",
+            "location": {
+                "street": "Rue Gabriel Péri",
+                "polyline": "48.66547805450573 6.175310531266938",
+                "location_description": "RUE GABRIEL PÉRI, VANDOEUVRE LES NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-12T18:01:02.447478",
+            "creationtime": "2022-05-12T18:01:02.447444",
+            "id": "FrMdGN54148826"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Circulation et stationnement difficille à l'avancée du chantier",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-05-10T00:00:00",
+            "endtime": "2022-06-17T00:00:00",
+            "location": {
+                "street": "Avenue de Strasbourg",
+                "polyline": "48.68192843235996 6.1924921457235635",
+                "location_description": "AVENUE DE STRASBOURG, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-10T16:01:02.993206",
+            "creationtime": "2022-05-09T11:01:03.472146",
+            "id": "FrMdGN54148183"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Rue barrée, Stationnement interdit",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-06-20T00:00:00",
+            "endtime": "2022-07-01T00:00:00",
+            "location": {
+                "street": "Rue d'Italie",
+                "polyline": "48.66228880646238 6.172766456520988",
+                "location_description": "RUE D'ITALIE, VANDOEUVRE LES NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-12T18:01:02.604699",
+            "creationtime": "2022-05-12T18:01:02.604682",
+            "id": "FrMdGN54148827"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Chantier ponctuel - Voirie: Rue barrée",
+            "short_description": "Chantier ponctuel - Voirie",
+            "starttime": "2022-04-25T00:00:00",
+            "endtime": "2022-05-31T00:00:00",
+            "location": {
+                "street": "Viaduc Louis Marin",
+                "polyline": "48.70124271131899 6.187074755506785",
+                "location_description": "VEBE BRETELLE SORTIE 3 MAISONS, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-04-11T12:01:02.980806",
+            "creationtime": "2022-04-11T12:01:02.980790",
+            "id": "FrMdGN54147864"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Circulation alternée",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-03-21T00:00:00",
+            "endtime": "2022-06-03T00:00:00",
+            "location": {
+                "street": "Allée Frédéric Boucheron",
+                "polyline": "48.69831329489309 6.226020682796653",
+                "location_description": "ALLÉE FRÉDÉRIC BOUCHERON, ESSEY LES NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-04-21T10:01:03.009590",
+            "creationtime": "2022-03-03T10:01:02.877452",
+            "id": "FrMdGN54146582"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Circulation alternée",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-03-21T00:00:00",
+            "endtime": "2022-06-03T00:00:00",
+            "location": {
+                "street": "Rue de Mouzinpré",
+                "polyline": "48.69940734179435 6.225741732532177",
+                "location_description": "RUE DE MOUZIMPRÉ, ESSEY LES NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-04-21T10:01:03.072641",
+            "creationtime": "2022-03-03T10:01:02.923494",
+            "id": "FrMdGN54146583"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Circulation alternée",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-04-11T00:00:00",
+            "endtime": "2022-06-03T00:00:00",
+            "location": {
+                "street": "Allée Carl Fabergé",
+                "polyline": "48.700065883443514 6.2244274504148205",
+                "location_description": "ALLÉE CARL FABERGÉ, ESSEY LES NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-03-17T10:01:02.624507",
+            "creationtime": "2022-03-03T10:01:02.969991",
+            "id": "FrMdGN54146584"
+        },
+        {
+            "type": "CONSTRUCTION",
+            "description": "Eau potable - Voirie: Réduction de circulation et itinéraire de déviation",
+            "short_description": "Eau potable - Voirie",
+            "starttime": "2022-04-25T00:00:00",
+            "endtime": "2022-06-10T00:00:00",
+            "location": {
+                "street": "Avenue Raymond Pinchard",
+                "polyline": "48.69981004730446 6.1429203688606195",
+                "location_description": "AVENUE RAYMOND PINCHARD, NANCY"
+            },
+            "source": {
+                "name": "Métropole du Grand Nancy",
+                "reference": "Grand_Nancy"
+            },
+            "updatetime": "2022-05-05T10:01:03.464469",
+            "creationtime": "2022-03-03T10:01:03.017704",
+            "id": "FrMdGN54146585"
+        }
+    ]
+}
