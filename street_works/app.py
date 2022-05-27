@@ -15,11 +15,11 @@ def load_data(file_path):
     
     return j
 
-json_data = load_data('./data.json')
+json_data = load_data('data.json')
 
 st.subheader("This DataFrame represents the raw data fetched from a JSON file.")
 
-df_all = pd.read_json('./data.json')
+df_all = pd.read_json('data.json')
 df_all
 
 
